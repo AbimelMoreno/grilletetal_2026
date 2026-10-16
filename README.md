@@ -14,8 +14,12 @@ Repository Structure
 The Excel file in this repository is organized as follows:
 
 -aggregated_abundances_per_loc: Aggregated abundance data per locality for Ny. darlingi, Ny. albitarsis, and Ny. goeldii.
+
 -land&malaria_data: Selected landscape metrics, and number of malaria cases for each studied locality.
+
 -anophelinae_data: Mosquito abundance data organized by date and locality used to fit the GLMMs.
+
 -human_biting_rate: Calculated Human Biting Rates (HBR) for each locality, including their respective dispersion measures.
+
 -mining_trends: Mining covers obtained from bounding polygons (“Extent”), and 5‑km buffers around each locality, which        were merged into 11 clusters. 
   
