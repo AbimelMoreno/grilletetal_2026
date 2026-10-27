@@ -1,4 +1,4 @@
-# grilletatal_2026
+# grilletetal_2026
 
 Landscape Factors Influencing Malaria Vector Abundance
 
